@@ -14,7 +14,9 @@ namespace basics
 
 
             System.Console.WriteLine(firstName + " " + age);
-    
+            System.Console.WriteLine();
+
+
         }
     }
 }
