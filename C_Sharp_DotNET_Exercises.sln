@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.808.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basics", "helloWorld\basics.csproj", "{A55043B2-225A-4502-A955-B1DD85B18327}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataScrape", "dataScrape\dataScrape.csproj", "{49AACAA5-24BA-4D5D-BEEA-A6D34B895CA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataScrapePractice", "dataScrapePractice\dataScrapePractice.csproj", "{D15207E4-6360-4AD8-887A-1F52A605FE03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A55043B2-225A-4502-A955-B1DD85B18327}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A55043B2-225A-4502-A955-B1DD85B18327}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A55043B2-225A-4502-A955-B1DD85B18327}.Release|Any CPU.Build.0 = Release|Any CPU
-		{49AACAA5-24BA-4D5D-BEEA-A6D34B895CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49AACAA5-24BA-4D5D-BEEA-A6D34B895CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49AACAA5-24BA-4D5D-BEEA-A6D34B895CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49AACAA5-24BA-4D5D-BEEA-A6D34B895CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15207E4-6360-4AD8-887A-1F52A605FE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15207E4-6360-4AD8-887A-1F52A605FE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15207E4-6360-4AD8-887A-1F52A605FE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15207E4-6360-4AD8-887A-1F52A605FE03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
